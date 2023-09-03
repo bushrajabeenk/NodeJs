@@ -1,0 +1,9 @@
+{
+  "todos": [
+    { "id": 1, "text": "Learn React" },
+    { "id": 3, "text": "Learn Node.js" },
+    { "id": 5, "text": "Learn MySQL" },
+    { "id": 90, "text": "Learn Mongoose" },
+    { "id": 2, "text": "Learn React-Redux" }
+  ]
+}
